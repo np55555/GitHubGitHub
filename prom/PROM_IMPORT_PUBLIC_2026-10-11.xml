@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-10-11 08:46">
+  <shop>
+    <categories>
+      <category id="990000000">Новинки</category>
+      <category id="990000001" parentId="990000000">Готові набори для риболовлі</category>
+      <category id="990000002" parentId="990000000">Ручні та налобні ліхтарі</category>
+      <category id="990000003" parentId="990000000">Панами з москітною сіткою</category>
+      <category id="990000004" parentId="990000000">Сумки-холодильники, термосумки</category>
+    </categories>
+    <offers>
+      <offer id="FISH-001" available="true" selling_type="u">
+        <name>Готовый набор для рыбалки 15 в 1 на карпа</name>
+        <name_ua>Готовий набір для риболовлі 15 в 1 на коропа</name_ua>
+        <categoryId>990000001</categoryId>
+        <portal_category_url>https://prom.ua/Gotovye-nabory-dlya-rybalki.html</portal_category_url>
+        <price>1100</price><prices><price><value>1000</value><quantity>10</quantity></price></prices>
+        <currencyId>UAH</currencyId><vendorCode>FISH-001</vendorCode>
+        <description><![CDATA[Готовый комплект для ловли карпа: чехол, удочка, катушка, садок, подставка, 3 поплавка, крючки, грузила, бубенчик, светлячок и снасть на карпа.]]></description>
+        <description_ua><![CDATA[Готовий комплект для ловлі коропа: чохол, вудка, котушка, садок, підставка, 3 поплавки, гачки, грузила, бубонець, світлячок і снасть на коропа.]]></description_ua>
+        <keywords>набор для рыбалки, набор рыбака, набор на карпа, удочка с катушкой, готовый рыболовный набор</keywords>
+      </offer>
+      <offer id="FISH-002" available="true" selling_type="u">
+        <name>Готовый набор для рыбалки 15 в 1 на карася</name>
+        <name_ua>Готовий набір для риболовлі 15 в 1 на карася</name_ua>
+        <categoryId>990000001</categoryId>
+        <portal_category_url>https://prom.ua/Gotovye-nabory-dlya-rybalki.html</portal_category_url>
+        <price>1100</price><prices><price><value>1000</value><quantity>10</quantity></price></prices>
+        <currencyId>UAH</currencyId><vendorCode>FISH-002</vendorCode>
+        <description><![CDATA[Готовый комплект для ловли карася: чехол, удочка, катушка, садок, подставка, 3 поплавка, крючки, грузила, бубенчик, светлячок и снасть на карася.]]></description>
+        <description_ua><![CDATA[Готовий комплект для ловлі карася: чохол, вудка, котушка, садок, підставка, 3 поплавки, гачки, грузила, бубонець, світлячок і снасть на карася.]]></description_ua>
+        <keywords>набор для рыбалки, набор рыбака, набор на карася, удочка с катушкой, готовый рыболовный набор</keywords>
+      </offer>
+      <offer id="FISH-003" available="true" selling_type="u">
+        <name>Готовый набор для рыбалки 15 в 1 с прикормкой</name>
+        <name_ua>Готовий набір для риболовлі 15 в 1 з прикормкою</name_ua>
+        <categoryId>990000001</categoryId>
+        <portal_category_url>https://prom.ua/Gotovye-nabory-dlya-rybalki.html</portal_category_url>
+        <price>1100</price><prices><price><value>1000</value><quantity>10</quantity></price></prices>
+        <currencyId>UAH</currencyId><vendorCode>FISH-003</vendorCode>
+        <description><![CDATA[Готовый комплект для рыбалки с прикормкой: чехол, удочка, катушка, садок, подставка, 3 поплавка, крючки, грузила, бубенчик и светлячок.]]></description>
+        <description_ua><![CDATA[Готовий комплект для риболовлі з прикормкою: чохол, вудка, котушка, садок, підставка, 3 поплавки, гачки, грузила, бубонець і світлячок.]]></description_ua>
+        <keywords>набор для рыбалки, набор с прикормкой, рыболовный комплект, удочка с катушкой, подарок рыбаку</keywords>
+      </offer>
+      <offer id="FISH-004" available="true" selling_type="u">
+        <name>Набор для рыбалки 16 в 1 с прикормкой и москитной панамой</name>
+        <name_ua>Набір для риболовлі 16 в 1 з прикормкою та москітною панамою</name_ua>
+        <categoryId>990000001</categoryId>
+        <portal_category_url>https://prom.ua/Gotovye-nabory-dlya-rybalki.html</portal_category_url>
+        <price>1200</price><prices><price><value>1100</value><quantity>10</quantity></price></prices>
+        <currencyId>UAH</currencyId><vendorCode>FISH-004</vendorCode>
+        <description><![CDATA[Расширенный набор для рыбалки с прикормкой, москитной панамой и сеткой. В комплекте удочка, катушка, садок, чехол, подставка, поплавки и аксессуары.]]></description>
+        <description_ua><![CDATA[Розширений набір для риболовлі з прикормкою, москітною панамою та сіткою. У комплекті вудка, котушка, садок, чохол, підставка, поплавки й аксесуари.]]></description_ua>
+        <keywords>набор для рыбалки 16 в 1, москитная панама, прикормка, рыболовный набор, подарок рыбаку</keywords>
+      </offer>
+      <offer id="FISH-005" available="true" selling_type="u">
+        <name>Набор для рыбалки 15 в 1 с термосумкой и москитной защитой</name>
+        <name_ua>Набір для риболовлі 15 в 1 з термосумкою та москітним захистом</name_ua>
+        <categoryId>990000001</categoryId>
+        <portal_category_url>https://prom.ua/Gotovye-nabory-dlya-rybalki.html</portal_category_url>
+        <price>1200</price><prices><price><value>1100</value><quantity>10</quantity></price></prices>
+        <currencyId>UAH</currencyId><vendorCode>FISH-005</vendorCode>
+        <description><![CDATA[Премиальный набор: удочка, катушка, садок, чехол, подставка, 3 поплавка, аксессуары, москитная панама, сетка и термосумка.]]></description>
+        <description_ua><![CDATA[Преміальний набір: вудка, котушка, садок, чохол, підставка, 3 поплавки, аксесуари, москітна панама, сітка та термосумка.]]></description_ua>
+        <keywords>набор для рыбалки, термосумка, москитная панама, рыболовный комплект, подарок рыбаку</keywords>
+      </offer>
+      <offer id="LIGHT-001" available="true" selling_type="u">
+        <name>Фонарь аккумуляторный X-Ballon 1500 lm 10W Zoom 18650</name>
+        <name_ua>Ліхтар акумуляторний X-Ballon 1500 лм 10W Zoom 18650</name_ua>
+        <categoryId>990000002</categoryId>
+        <portal_category_url>https://prom.ua/Fonariki-</portal_category_url>
+        <price>450</price><prices><price><value>380</value><quantity>10</quantity></price></prices>
+        <currencyId>UAH</currencyId><vendorCode>LIGHT-001</vendorCode><quantity_in_stock>700</quantity_in_stock>
+        <description><![CDATA[Ручной аккумуляторный фонарь X-Ballon: до 1500 лм, 10W, аккумулятор 18650, Zoom, 5 режимов, алюминиевый корпус.]]></description>
+        <description_ua><![CDATA[Ручний акумуляторний ліхтар X-Ballon: до 1500 лм, 10W, акумулятор 18650, Zoom, 5 режимів, алюмінієвий корпус.]]></description_ua>
+        <keywords>X-Ballon 1500, аккумуляторный фонарь, фонарь 18650, фонарь Zoom, фонарь для рыбалки</keywords>
+      </offer>
+      <offer id="KAR130" available="true" selling_type="u">
+        <name>Панама KAR130 с антимоскитной сеткой, серая</name>
+        <name_ua>Панама KAR130 з антимоскітною сіткою, сіра</name_ua>
+        <categoryId>990000003</categoryId>
+        <portal_category_url>https://prom.ua/ua/Panamy-antimoskitnye.html</portal_category_url>
+        <price>199</price><prices><price><value>180</value><quantity>10</quantity></price></prices>
+        <currencyId>UAH</currencyId><vendorCode>KAR130</vendorCode>
+        <description><![CDATA[Серая панама KAR130 с антимоскитной сеткой для защиты лица и шеи от комаров и мошек. Для рыбалки, охоты, туризма и дачи.]]></description>
+        <description_ua><![CDATA[Сіра панама KAR130 з антимоскітною сіткою для захисту обличчя та шиї від комарів і мошок. Для риболовлі, полювання, туризму та дачі.]]></description_ua>
+        <keywords>панама с москитной сеткой, KAR130, панама от комаров, накомарник, панама для рыбалки</keywords>
+      </offer>
+      <offer id="THERMO-BLUE-001" available="true" selling_type="u">
+        <name>Термосумка складная синяя, сумка-холодильник</name>
+        <name_ua>Термосумка складана синя, сумка-холодильник</name_ua>
+        <categoryId>990000004</categoryId>
+        <portal_category_url>https://prom.ua/ua/Sumki-holodilniki</portal_category_url>
+        <price>249</price><prices><price><value>220</value><quantity>10</quantity></price></prices>
+        <currencyId>UAH</currencyId><vendorCode>THERMO-BLUE-001</vendorCode>
+        <description><![CDATA[Складная синяя термосумка для еды и напитков. Термоизоляционный слой, влагостойкий материал. Для пикника, рыбалки, поездок и кемпинга.]]></description>
+        <description_ua><![CDATA[Складана синя термосумка для їжі та напоїв. Термоізоляційний шар, вологостійкий матеріал. Для пікніка, риболовлі, поїздок і кемпінгу.]]></description_ua>
+        <keywords>термосумка, сумка холодильник, термосумка для рыбалки, термосумка для пикника, cooler bag</keywords>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
